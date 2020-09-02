@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @tdlist.description %>
+</p>
+
+<p>
+  <strong>Completed:</strong>
+  <%= @tdlist.completed %>
+</p>
+
+<%= link_to 'Edit', edit_tdlist_path(@tdlist) %> |
+<%= link_to 'Back', tdlists_path %>
