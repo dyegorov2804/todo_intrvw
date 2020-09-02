@@ -1,24 +1,8 @@
 # README
+Dummy TODO list
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>ruby -v
+ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+>rails -v
+Rails 6.0.3.2
